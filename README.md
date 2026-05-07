@@ -1,7 +1,7 @@
 # Desefio-NotebookLM
-# 📚 Caderno Temático com NotebookLM — Segurança da Informação
+# Caderno Temático com NotebookLM — Segurança da Informação
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Este projeto foi desenvolvido como parte do desafio da DIO com foco na utilização da Inteligência Artificial como ferramenta de aprendizagem ativa.
 
@@ -15,7 +15,7 @@ O tema escolhido foi **Segurança da Informação e Guerra Cibernética**, com o
 
 ---
 
-# 🧠 Ferramenta Utilizada
+# Ferramenta Utilizada
 
 - NotebookLM
 - GitHub
@@ -24,7 +24,7 @@ O tema escolhido foi **Segurança da Informação e Guerra Cibernética**, com o
 
 ---
 
-# 📖 Fontes Utilizadas
+# Fontes Utilizadas
 
 ## 1. Cartilha de Segurança para Internet (CERT.br)
 Link:
@@ -48,7 +48,7 @@ https://www.ibm.com/security/xforce
 
 ---
 
-# 🔍 Engenharia de Prompts
+# Engenharia de Prompts
 
 ## Prompt 1
 
@@ -90,15 +90,15 @@ Foi possível identificar diferenças conceituais e operacionais.
 
 ---
 
-# 📘 Mini Guia de Estudos
+# Mini Guia de Estudos
 
-## 🔐 O que é Segurança da Informação?
+## O que é Segurança da Informação?
 
 Conjunto de práticas utilizadas para proteger sistemas, redes e dados contra acessos não autorizados, ataques e falhas.
 
 ---
 
-## 🛡️ Princípios Fundamentais
+## Princípios Fundamentais
 
 ### Confidencialidade
 Garantir que apenas pessoas autorizadas tenham acesso às informações.
@@ -111,7 +111,7 @@ Garantir acesso às informações quando necessário.
 
 ---
 
-# ⚠️ Principais Ameaças Cibernéticas
+# Principais Ameaças Cibernéticas
 
 - Phishing
 - Malware
@@ -121,13 +121,13 @@ Garantir acesso às informações quando necessário.
 
 ---
 
-# 🌐 Guerra Cibernética
+# Guerra Cibernética
 
 A guerra cibernética envolve ataques digitais realizados entre países ou grupos organizados com objetivos estratégicos, políticos ou militares.
 
 ---
 
-# 📚 Glossário
+# Glossário
 
 | Termo | Definição |
 |---|---|
@@ -139,7 +139,7 @@ A guerra cibernética envolve ataques digitais realizados entre países ou grupo
 
 ---
 
-# 🤖 Prompts Reutilizáveis
+# Prompts Reutilizáveis
 
 ```txt
 Explique [tema] de forma simples.
@@ -157,7 +157,7 @@ Explique como esse tema pode cair em concursos públicos.
 
 ---
 
-# 🚀 Conclusão
+# Conclusão
 
 O projeto permitiu compreender como a Inteligência Artificial pode apoiar os estudos de forma estruturada, aumentando produtividade, organização e capacidade analítica.
 
